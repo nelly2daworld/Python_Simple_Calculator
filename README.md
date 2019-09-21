@@ -9,9 +9,7 @@ Read the input and store it to a variable. Now prompt the user for a second inte
 
 Now that you have both of the user’s numbers, you will print to the user 
 
-Your numbers are <First number> and <Second number>
-
-where first and second numbers are what the user inputted.
+Your numbers are #First_number and #Second_number where first and second numbers are what the user inputted.
 
 Next the user will be offered the options between ADD, MULTIPLY or SUBTRACT. The user should select one of the options by typing in the corresponding operator. If the user selects another option, the program should print “Sorry, that option is not supported” and exit the program.
 
